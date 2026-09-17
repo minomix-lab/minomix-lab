@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My skills
+
+[<img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="50" height="50">](https://github.com/)
+[<img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="50" height="50">](https://www.linux.org/)
+
+[<img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="50" height="50">](https://www.gnu.org/software/bash/)
+[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
