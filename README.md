@@ -19,3 +19,4 @@
 [<img src="/STM32.png" alt="STM32" title="STM32" width="50" height="50">]()
 [<img src="/Keil.jpg" alt="Keil uVision" title="Keil uVision" width="50" height="50">]()
 [<img src="/STM32Cube.jpg" alt="STM32Cube" title="STM32Cube" width="50" height="50">]()
+[<img src="/platformio.png" alt="PlatformIO" title="PlatformIO" width="50" height="50">]()
