@@ -18,7 +18,7 @@
 
 ### Микроконтроллеры
 <p>
-  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" title="Arduino" width="48" height="48"/></a>
+  <a href="https://www.arduino.cc/"><img src="/arduino.png" title="Arduino" width="48" height="48"/></a>
   <a href="https://www.espressif.com/en/products/socs/esp32"><img src="/ESP32.jpg" title="ESP32" width="48" height="48"/></a>
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="/STM32.png" title="STM32" width="48" height="48"/></a>
 </p>
