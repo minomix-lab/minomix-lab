@@ -22,3 +22,15 @@ Here are some ideas to get you started:
 
 [<img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="50" height="50">](https://www.gnu.org/software/bash/)
 [<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
+
+[<img src="https://skillicons.dev/icons?i=arduino" alt="arduino" title="arduino" width="50" height="50">](https://www.arduino.cc/)
+[<img src="https://skillicons.dev/icons?i=c" alt="С" title="С" width="50" height="50">]()
+[<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="50" height="50">]()
+[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
