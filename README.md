@@ -1,22 +1,57 @@
-## My skills
+## Привет, я Minomix 👋
+### Embedded-разработчик • C/C++ • Микроконтроллеры
 
-[<img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="50" height="50">](https://github.com/)
-[<img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="50" height="50">](https://www.linux.org/)
+---
 
-[<img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="50" height="50">](https://www.gnu.org/software/bash/)
-[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
+## Технологический стек
+### Операционные системы и окружение
+<p>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" title="Linux" width="48" height="48"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" title="Bash" width="48" height="48"/></a>
+  <a href="https://microsoft.com/powershell"><img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" width="48" height="48"/></a>
+</p>
 
-[<img src="https://skillicons.dev/icons?i=arduino" alt="arduino" title="arduino" width="50" height="50">](https://www.arduino.cc/)
-[<img src="https://skillicons.dev/icons?i=c" alt="С" title="С" width="50" height="50">]()
-[<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="50" height="50">]()
-[<img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" title="LaTeX" width="50" height="50">](https://latex-project.org/)
-[<img src="https://skillicons.dev/icons?i=md" alt="md" title="Marcdown" width="50" height="50">]()
-[<img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" title="Obsidian" width="50" height="50">](https://obsidian.md/)
-[<img src="https://skillicons.dev/icons?i=powershell" alt="Powershell" title="Powershell" width="50" height="50">]()
-[<img src="https://skillicons.dev/icons?i=vscode" alt="VScode" title="VScode" width="50" height="50">](https://code.visualstudio.com/)
-[<img src="/asm.png" alt="Assembler" title="Assembler of ARM and X86" width="50" height="50">]()
-[<img src="/ESP32.jpg" alt="ESP32" title="ESP32" width="50" height="50">]()
-[<img src="/STM32.png" alt="STM32" title="STM32" width="50" height="50">]()
-[<img src="/Keil.jpg" alt="Keil uVision" title="Keil uVision" width="50" height="50">]()
-[<img src="/STM32Cube.jpg" alt="STM32Cube" title="STM32Cube" width="50" height="50">]()
-[<img src="/platformio.png" alt="PlatformIO" title="PlatformIO" width="50" height="50">]()
+### Языки программирования
+<p>
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48"/></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" title="C++" width="48" height="48"/></a>
+  <a href="https://developer.arm.com/documentation"><img src="/asm.png" title="Assembler (ARM, x86)" width="48" height="48"/></a>
+</p>
+
+### Микроконтроллеры
+<p>
+  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" title="Arduino" width="48" height="48"/></a>
+  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="/ESP32.jpg" title="ESP32" width="48" height="48"/></a>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="/STM32.png" title="STM32" width="48" height="48"/></a>
+</p>
+
+### Среды разработки
+<p>
+  <a href="https://www.arduino.cc/en/software"><img src="https://skillicons.dev/icons?i=arduino" title="Arduino IDE" width="48" height="48"/></a>
+  <a href="https://www.keil.com/"><img src="/Keil.jpg" title="Keil uVision" width="48" height="48"/></a>
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img src="/STM32Cube.jpg" title="STM32Cube" width="48" height="48"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48"/></a>
+  <a href="https://platformio.org/"><img src="/platformio.png" title="PlatformIO" width="48" height="48"/></a>
+</p>
+
+### Инструменты и документация
+<p>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/></a>
+  <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" title="LaTeX" width="48" height="48"/></a>
+  <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" title="Markdown" width="48" height="48"/></a>
+  <a href="https://obsidian.md/"><img src="https://skillicons.dev/icons?i=obsidian" title="Obsidian" width="48" height="48"/></a>
+</p>
+
+---
+
+## Избранные проекты
+
+<p align="center">
+  <a href="https://github.com/minomix_lab/РЕПО1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minomix_lab&repo=РЕПО1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/minomix_lab/РЕПО2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minomix_lab&repo=РЕПО2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
