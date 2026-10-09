@@ -3,6 +3,7 @@
 ## Технологический стек
 ### Операционные системы и окружение
 <p>
+  <a href="https://www.ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" width="48" height="48"/></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" title="Linux" width="48" height="48"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" title="Bash" width="48" height="48"/></a>
   <a href="https://microsoft.com/powershell"><img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" width="48" height="48"/></a>
@@ -26,7 +27,8 @@
 <p>
   <a href="https://www.arduino.cc/en/software"><img src="https://skillicons.dev/icons?i=arduino" title="Arduino IDE" width="48" height="48"/></a>
   <a href="https://www.keil.com/"><img src="/Keil.jpg" title="Keil uVision" width="48" height="48"/></a>
-  <a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img src="/STM32Cube.jpg" title="STM32Cube" width="48" height="48"/></a>
+  <a href="https://www.st.com/en/development-tools/stm32cubemx.html"><img src="/STM32Cube.jpg" title="STM32Cube" width="48" height="48"/></a>
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img src="/STM32IDE.jpg" title="STM32IDE" width="48" height="48"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48"/></a>
   <a href="https://platformio.org/"><img src="/platformio.png" title="PlatformIO" width="48" height="48"/></a>
   <a href="https://easyeda.com/"><img src="/easyeda.png" title="EasyEDA" width="48" height="48"/></a>
