@@ -29,6 +29,7 @@
   <a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img src="/STM32Cube.jpg" title="STM32Cube" width="48" height="48"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48"/></a>
   <a href="https://platformio.org/"><img src="/platformio.png" title="PlatformIO" width="48" height="48"/></a>
+  <a href="https://easyeda.com/"><img src="/easyeda.png" title="EasyEDA" width="48" height="48"/></a>
 </p>
 
 ### Инструменты и документация
