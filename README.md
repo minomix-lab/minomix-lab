@@ -14,3 +14,8 @@
 [<img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" title="Obsidian" width="50" height="50">](https://obsidian.md/)
 [<img src="https://skillicons.dev/icons?i=powershell" alt="Powershell" title="Powershell" width="50" height="50">]()
 [<img src="https://skillicons.dev/icons?i=vscode" alt="VScode" title="VScode" width="50" height="50">](https://code.visualstudio.com/)
+[<img src="/asm.png" alt="Assembler" title="Assembler of ARM and X86" width="50" height="50">]()
+[<img src="/ESP32.jpg" alt="ESP32" title="ESP32" width="50" height="50">]()
+[<img src="/STM32.png" alt="STM32" title="STM32" width="50" height="50">]()
+[<img src="/Keil.jpg" alt="Keil uVision" title="Keil uVision" width="50" height="50">]()
+[<img src="/STM32Cube.jpg" alt="STM32Cube" title="STM32Cube" width="50" height="50">]()
