@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**minomix-code/minomix-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## My skills
 
 [<img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="50" height="50">](https://github.com/)
@@ -26,11 +9,8 @@ Here are some ideas to get you started:
 [<img src="https://skillicons.dev/icons?i=arduino" alt="arduino" title="arduino" width="50" height="50">](https://www.arduino.cc/)
 [<img src="https://skillicons.dev/icons?i=c" alt="С" title="С" width="50" height="50">]()
 [<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="50" height="50">]()
-[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" title="LaTeX" width="50" height="50">](https://latex-project.org/)
+[<img src="https://skillicons.dev/icons?i=md" alt="md" title="Marcdown" width="50" height="50">]()
+[<img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" title="Obsidian" width="50" height="50">](https://obsidian.md/)
+[<img src="https://skillicons.dev/icons?i=powershell" alt="Powershell" title="Powershell" width="50" height="50">]()
+[<img src="https://skillicons.dev/icons?i=vscode" alt="VScode" title="VScode" width="50" height="50">](https://code.visualstudio.com/)
